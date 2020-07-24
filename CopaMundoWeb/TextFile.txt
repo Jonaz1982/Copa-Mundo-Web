@@ -1,0 +1,1 @@
+﻿Data Source=SALAK403-16;Initial Catalog=CopaMundo;Integrated Security=true

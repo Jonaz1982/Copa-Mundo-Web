@@ -1,0 +1,22 @@
+T:\Programacion Distribuida\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.csprojResolveAssemblyReference.cache
+T:\Programacion Distribuida\LibreriaCopaMundo\bin\Debug\LibreriaCopaMundo.dll
+T:\Programacion Distribuida\LibreriaCopaMundo\bin\Debug\LibreriaCopaMundo.pdb
+T:\Programacion Distribuida\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.dll
+T:\Programacion Distribuida\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.pdb
+T:\LibreriaCopaMundo\bin\Debug\LibreriaCopaMundo.dll
+T:\LibreriaCopaMundo\bin\Debug\LibreriaCopaMundo.pdb
+T:\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.csprojResolveAssemblyReference.cache
+T:\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.dll
+T:\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.pdb
+T:\Computacion Distribuida\Proyecto Copa Mundo\LibreriaCopaMundo\bin\Debug\LibreriaCopaMundo.dll
+T:\Computacion Distribuida\Proyecto Copa Mundo\LibreriaCopaMundo\bin\Debug\LibreriaCopaMundo.pdb
+T:\Computacion Distribuida\Proyecto Copa Mundo\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.dll
+T:\Computacion Distribuida\Proyecto Copa Mundo\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.pdb
+T:\Computacion Distribuida\Proyecto Copa Mundo\LibreriaCopaMundo\bin\Debug\ControlFecha.dll
+C:\Users\jgonzalez\Downloads\Copa Mundo Web 2014-10-31\LibreriaCopaMundo\bin\Debug\LibreriaCopaMundo.dll
+C:\Users\jgonzalez\Downloads\Copa Mundo Web 2014-10-31\LibreriaCopaMundo\bin\Debug\LibreriaCopaMundo.pdb
+C:\Users\jgonzalez\Downloads\Copa Mundo Web 2014-10-31\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.csprojAssemblyReference.cache
+C:\Users\jgonzalez\Downloads\Copa Mundo Web 2014-10-31\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.csproj.CoreCompileInputs.cache
+C:\Users\jgonzalez\Downloads\Copa Mundo Web 2014-10-31\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.csproj.CopyComplete
+C:\Users\jgonzalez\Downloads\Copa Mundo Web 2014-10-31\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.dll
+C:\Users\jgonzalez\Downloads\Copa Mundo Web 2014-10-31\LibreriaCopaMundo\obj\Debug\LibreriaCopaMundo.pdb

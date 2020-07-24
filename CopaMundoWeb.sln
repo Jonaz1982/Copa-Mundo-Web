@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CopaMundoWeb", "http://localhost:51967", "{74BFF9D5-3FFA-419D-93A3-2CD097D50DFE}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{c3133cc0-1266-4464-a613-5fb02bf23c87}|LibreriaCopaMundo.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51967"
+		Debug.AspNetCompiler.PhysicalPath = "CopaMundoWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51967\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51967"
+		Release.AspNetCompiler.PhysicalPath = "CopaMundoWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51967\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "CopaMundoWeb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaCopaMundo", "LibreriaCopaMundo\LibreriaCopaMundo.csproj", "{C3133CC0-1266-4464-A613-5FB02BF23C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BFF9D5-3FFA-419D-93A3-2CD097D50DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BFF9D5-3FFA-419D-93A3-2CD097D50DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BFF9D5-3FFA-419D-93A3-2CD097D50DFE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BFF9D5-3FFA-419D-93A3-2CD097D50DFE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C3133CC0-1266-4464-A613-5FB02BF23C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3133CC0-1266-4464-A613-5FB02BF23C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3133CC0-1266-4464-A613-5FB02BF23C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3133CC0-1266-4464-A613-5FB02BF23C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
